@@ -1,0 +1,20 @@
+.active{
+    font-weight: bolder;
+    color:brown;
+}
+.container-def{
+    margin-top: 3em;
+  }
+  .container-c{
+    margin-top: 3em;
+    text-align: center;
+  }
+  .red{
+    background-color: red;
+  }
+  .blue{
+    background-color: blue;
+  }
+  .orange{
+    background-color: orange;
+  }
